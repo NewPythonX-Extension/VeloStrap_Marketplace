@@ -14,7 +14,7 @@
       "author": "Bob",
       "type": "profile",
       "version": "2.1",
-	    "schema_version": 1,
+	  "schema_version": 1,
    	  "sha256": "empty",
       "download": "https://github.com/NewPythonX-Extension/VeloStrap-MarketPlace/releases/download/Bob/PerformanceProfile.zip",
     }
