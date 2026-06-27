@@ -11,4 +11,5 @@ Please include:
 - Your contact information
 
 We respond to copyright complaints Monday - Friday afternoon.
-Germany.
+Germany. You might not always get a respond even durinig these times.
+I might be on vaction, in school, doing homework and please be patient after you send your copyright compliant.
