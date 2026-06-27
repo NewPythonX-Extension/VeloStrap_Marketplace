@@ -7,7 +7,7 @@
       "version": "1.0.0",
       "schema_version": 1,
    	  "sha256": "empty",
-      "download": "https://github.com/NewPythonX-Extension/VeloStrap-MarketPlace/releases/download/alice-theme/AliceTheme.zip",
+      "download": "https://github.com/NewPythonX-Extension/VeloStrap-MarketPlace/releases/download/Alice/AliceTheme.zip",
       "preview": "https://raw.githubusercontent.com/NewPythonX-Extension/VeloStrap-MarketPlace/main/previews/alices_cool_theme.png"
     },
     "Bob Performance Profile (Official Test)": {
@@ -16,7 +16,7 @@
       "version": "2.1",
 	    "schema_version": 1,
    	  "sha256": "empty",
-      "download": "https://github.com/NewPythonX-Extension/VeloStrap-MarketPlace/releases/download/bob-profile/PerformanceProfile.zip",
+      "download": "https://github.com/NewPythonX-Extension/VeloStrap-MarketPlace/releases/download/Bob/PerformanceProfile.zip",
     }
   }
 }
