@@ -8,7 +8,7 @@
       "schema_version": 1,
    	  "sha256": "empty",
       "download": "https://github.com/NewPythonX-Extension/VeloStrap_Marketplace/releases/download/Alice_Alice'sCoolTheme(UUID)/AliceCoolTheme.zip",
-      "preview": "https://raw.githubusercontent.com/NewPythonX-Extension/VeloStrap-MarketPlace/main/previews/alices_cool_theme.png"
+      "preview": "https://raw.githubusercontent.com/NewPythonX-Extension/VeloStrap_Marketplace/refs/heads/main/previews/alices_cool_theme.png"
     },
     "Bob Performance Profile (Official Test)": {
       "author": "Bob",
