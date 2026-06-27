@@ -12,4 +12,4 @@ Please include:
 
 We respond to copyright complaints Monday - Friday afternoon.
 Germany. You might not always get a respond even durinig these times.
-I might be on vaction, in school, doing homework and please be patient after you send your copyright compliant.
+I might be on vacation, in school, doing homework and please be patient after you send your copyright compliant.
